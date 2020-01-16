@@ -17,7 +17,11 @@ a#plr:hover {
 
   color: tomato;
 }
-
+a.gml{
+  text-decoration: none;
+  color: burlywood;
+  text-align: center;
+}
 
 
 /* .page-header {
