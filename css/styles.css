@@ -1,0 +1,42 @@
+.navbar-inverse {
+  background-color: transparent;
+  width: 100%;
+}
+
+#nav {
+  padding-bottom: 3px;
+  color: transparent;
+
+}
+
+i {
+  width: 60px;
+}
+
+a#plr:hover {
+
+  color: tomato;
+}
+
+
+
+/* .page-header {
+    text-align: center;
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+    -webkit-transition-property: width;
+
+    -webkit-transition-duration: 5s;
+    
+    -webkit-transition-delay: 1s;
+    
+    transition-property: width;
+    transition-duration: 5s;
+    transition-delay: 1s;
+    transition-timing-function: linear;
+  }
+ 
+  .page-header:hover {
+    width: 100%;
+  } */

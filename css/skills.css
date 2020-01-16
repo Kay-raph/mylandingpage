@@ -1,0 +1,13 @@
+#hed{
+    text-align: center;
+    
+
+}
+@media screen and (max-width: 1080px) {
+
+   #bgm1#hed {
+        width: 100%;
+        height: 100%;
+
+    }
+}
